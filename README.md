@@ -1,2 +1,3 @@
-# Infosys-spring-board-task-1
-job opportunities dataset in fake news detection
+Problem statement and dataset for fake news detection of job opportunities
+ 
+The problem for fake news detection in job opportunities is the spread of misleading or false information about job listings, companies, or employment opportunities. This can lead to jobseekers wasting time and resources by applying for jobs that don't exist or working for companies with questionable practices. It can also damage the reputation of legitimate companies and contribute to a general distrust of online job listings. Another aspect of the solution is raising awareness among jobseekers and social media users about the problem of fake news about job opportunities. This could be achieved through educational programs, public campaigns, and the development of tools and resources to help users verify the reliability of job listings and other employment-related information. Overall, the goal is to create a more transparent and trustworthy online environment for jobseekers and employers, where fake news and misinformation are minimized and reliable information is prioritized.
